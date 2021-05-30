@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @ApplesBear (my name is Tanya)
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning JS, ReactJS
-- 📫 How to reach me: e-mail (only.alphabet.and.numbers@gmail.com); telegram (@applesbear); linkedin (https://www.linkedin.com/in/tetiana-larina-558518212); phone (+38(095)0618431)
+- I’m interested in front-end
+- I’m currently learning JS, ReactJS
+- How to reach me: 
+-                  e-mail (only.alphabet.and.numbers@gmail.com); 
+-                  telegram (@applesbear); 
+-                  linkedin (https://www.linkedin.com/in/tetiana-larina-558518212); 
+-                  phone (+38(095)0618431)
